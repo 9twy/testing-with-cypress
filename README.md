@@ -20,6 +20,3 @@ This repository contains Cypress tests for a dummy website. The tests cover the 
 - Answer all questions and complete the course.
 - Validate progress tracking and completion confirmation.
 
-=
-
-=
